@@ -1,2 +1,2 @@
 # delta-demo
-Create a 1st repo by delta-class.
+This ia a demo for git & github class by apna collage.
